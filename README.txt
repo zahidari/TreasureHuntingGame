@@ -13,3 +13,5 @@ I incorporated custom graphics and introduced a rope to extend the catching
 range. Additionally, I attempted to organize methods by either dividing 
 them or consolidating them into a single class, while leveraging object
 interactions for practical implementation.
+
+Reference: RyiSnow
